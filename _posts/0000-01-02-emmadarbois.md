@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Coucou
+Test pout changer des trucs
 Use the left arrow to go back!
